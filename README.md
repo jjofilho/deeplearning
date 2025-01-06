@@ -4,8 +4,11 @@
     <span>README - MACHINE LEARNING PRACTITIONER</span>
 </h1>
 
-## Sobre o Projeto Transfer-Learning
+## <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brasil" width="30"> Sobre o Projeto Transfer-Learning
 Projeto Transfer-Learning Redes Neurais | Classificação desenvolvido no Bootcamp **BairesDev - Machine Learning Practitioner** e integra o [Digital Innovation One](https://www.dio.me/). Este projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB. A base de dados utilizada para identificar/classificar contempla imagens de violões e guitarras, uma paixão/hobby musical profundamente terapêutica que recomendo.😃
+
+## <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30"> About this Project
+Transfer-Learning Neural Networks Project | Classification developed at the BairesDev Bootcamp - Machine Learning Practitioner and is part of Digital Innovation One. This project consists of applying the Transfer Learning method to a Deep Learning network in the Python language in the COLAB environment. A database used to identify/classify images of violas and guitars, a deeply therapeutic musical passion/hobby that I recommend.😃
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/jjofilho/transfer-learning-python/edit/main/README.md)
 
