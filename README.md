@@ -8,9 +8,11 @@
 Projeto Transfer-Learning Redes Neurais | Classificação desenvolvido no Bootcamp **BairesDev - Machine Learning Practitioner** e integra o [Digital Innovation One](https://www.dio.me/). Este projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB. A base de dados utilizada para identificar/classificar contempla imagens de violões e guitarras, uma paixão/hobby musical profundamente terapêutica que recomendo.😃
 
 ## <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30"> About this Project
-Transfer-Learning Neural Networks Project | Classification developed at the BairesDev Bootcamp - Machine Learning Practitioner and is part of Digital Innovation One. This project consists of applying the Transfer Learning method to a Deep Learning network in the Python language in the COLAB environment. A database used to identify/classify images of violas and guitars, a deeply therapeutic musical passion/hobby that I recommend.😃
+Transfer-Learning Neural Networks Project | Classification developed at the BairesDev Bootcamp - Machine Learning Practitioner and is part of [Digital Innovation One](https://www.dio.me/). This project consists of applying the Transfer Learning method to a Deep Learning network in the Python language in the COLAB environment. A database used to identify/classify images of violas and guitars, a deeply therapeutic musical passion/hobby that I recommend.😃
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/jjofilho/transfer-learning-python/blob/main/joao-transfer-learning.ipynb)
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/jjofilho/transfer-learning-python/blob/main/joao_transfer_learning.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jjofilho/transfer-learning-python/blob/main/joao_transfer_learning.ipynb)
 
 ```
 root/
@@ -21,7 +23,7 @@ root/
 └── README.md
 ```
 
-## Tecnologias
+## Tecnologias / Technologies
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![GOOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
