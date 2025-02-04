@@ -10,14 +10,17 @@ Projeto Transfer-Learning Redes Neurais | Classificação desenvolvido no Bootca
 ## <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30"> About this Project
 Transfer-Learning Neural Networks Project | Classification developed at the BairesDev Bootcamp - Machine Learning Practitioner and is part of [Digital Innovation One](https://www.dio.me/). This project consists of applying the Transfer Learning method to a Deep Learning network in the Python language in the COLAB environment. A database used to identify/classify images of violas and guitars, a deeply therapeutic musical passion/hobby that I recommend.😃
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jjofilho/transfer-learning-python/blob/main/joao_transfer_learning.ipynb)
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/jjofilho/transfer-learning-python/blob/main/transfer_learning_modeling.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jjofilho/transfer-learning-python/blob/main/transfer_learning_practitioner.ipynb)
 
 
 ```
 root/
-├── dataset.zip                        # dataset compactado 'violao' e 'guitarra'
-├── joao-transfer-learning.ipynb       # Executável Notebook Colab
-└── README.md                          # Informações seobre o Projeto
+├── dataset.zip                            # dataset compactado 'violao' e 'guitarra'
+├── transfer_learning_modeling.ipynb       # Modelagem com Transfer-Learning
+├── transfer_learning_practitioner.ipynb   # Aplicação prática com Transfer-Learning
+└── README.md                              # Informações sobre o Projeto
 ```
 
 ## Tecnologias / Technologies
