@@ -15,11 +15,9 @@ Transfer-Learning Neural Networks Project | Classification developed at the Bair
 
 ```
 root/
-├── dataset/
-│   ├── violao/
-│   └── guitar/
-├── joao-transfer-learning.ipynb
-└── README.md
+├── dataset.zip                        # dataset compactado 'violao' e 'guitarra'
+├── joao-transfer-learning.ipynb       # Executável Notebook Colab
+└── README.md                          # Informações seobre o Projeto
 ```
 
 ## Tecnologias / Technologies
